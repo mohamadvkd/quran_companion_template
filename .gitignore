@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+build/
+coverage/
+.idea/
+.vscode/
+*.iml
+pubspec.lock
+assets/app_icon.png
